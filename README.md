@@ -33,6 +33,6 @@
 <div align="center">
   <div align="center">
     <a href="https://github.com/lourez">
-    <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=kayladeodato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=kayladeodato&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=lourez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=lourez&layout=compact&langs_count=10&theme=tokyonight"/>
   </div>
