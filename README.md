@@ -4,7 +4,7 @@
 
   😃 Sou o Arthur Lourenço!<br>
   👩‍💻 Desenvolvedor Back-end;<br>
-  🖥️ Cursando Engenharia de Software (3/8);<br>
+  🖥️ Cursando Engenharia de Software (5/8);<br>
 
 ------------
 
