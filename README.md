@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋</h1>
 
 ###
-<br></br>
+
 <p align="left">Sobre mim:<br><br>😃 Sou o Arthur Lourenço!<br>👩‍💻 Desenvolvedor Back-end;<br>🖥️ Cursando Engenharia de Software (5/8);</p>
 
 ###
