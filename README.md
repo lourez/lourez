@@ -12,7 +12,7 @@
 
   😃 I'm Arthur Lourenço!<br>
   👩‍💻 Back-end developer;<br>
-  🖥️ Studying Software Enginner (3nd semester);<br>
+  🖥️ Studying Software Enginner (5nd semester);<br>
   
   
   Tecnologias:
