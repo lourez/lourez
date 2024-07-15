@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! 👋</h1>
 
 ###
-<hr>
+
 <p align="left">Sobre mim:<br><br>😃 Sou o Arthur Lourenço!<br>👩‍💻 Desenvolvedor Back-end;<br>🖥️ Cursando Engenharia de Software (5/8);</p>
 
 ###
-
+<hr>
 <p align="left">About me:<br><br>😃 I'm Arthur Lourenço!<br>👩‍💻 Back-end developer;<br>🖥️ Studying Software Enginner (5nd semester);</p>
 
 ###
