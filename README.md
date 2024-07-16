@@ -9,7 +9,7 @@
 <p align="left">About me:<br><br>😃 I'm Arthur Lourenço!<br>👩‍💻 Back-end developer;<br>🖥️ Studying Software Enginner (5nd semester);</p>
 
 ###
-
+<hr>
 <p align="left">Tecnologias:</p>
 
 ###
